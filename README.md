@@ -2,6 +2,7 @@
 
 Demo project using React Native and Expo to implement a mobile audio player. 
 
+
 ## Features
 
 1) Load, play and pause music
@@ -11,16 +12,36 @@ Demo project using React Native and Expo to implement a mobile audio player.
 5) Jump to previous or next track
 6) Enable/disable looping on a single track and whole playlist
 
+## Preview
+* Start Screen
+![picture](https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2238.PNG)
+
+* Select track from playlist to load music
+![picture](https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2239.PNG)
+
+* Load music and start playing (looping on track disabled by default)
+![picture](https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2240.PNG)
+
+* Load music and start playing (looping on track enabled)
+![picture](https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2241.PNG)
+
+* Jump to the position in the music when clicking on the lyrics or drag the progress bar
+![picture](https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2242.PNG)
+
+* Play list indicate the current playing track
+![picture](https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2243.PNG)
+
 
 ## Upcoming Features
 
-1) More powerful playlist (rearrange track order, delete track, create/delete playlist)
-2) Shuffle playing mode
-3) Display track info (album, genre, year, etc), album art and lyrics with different views
-4) Music library according to artist, albumn, genre and playlist
+1) Add micro-interatcions to enhance user experience
+2) More powerful playlist (rearrange track order, delete track, create/delete playlist)
+3) Shuffle playing mode
+4) Display track info (album, genre, year, etc), album art and lyrics with different views
+5) Music library according to artist, albumn, genre and playlist
 
 ## Tech
 
-* [React Native] - HTML enhanced for web apps!
-* [Expo] - awesome web-based text editor
-* [Python] - Markdown parser done right. Fast and easy to extend.
+* React Native - HTML enhanced for web apps!
+* Expo - awesome web-based text editor
+* Python - Markdown parser done right. Fast and easy to extend.
