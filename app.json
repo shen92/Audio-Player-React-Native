@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-audio-player",
-    "slug": "rn-audio-player",
+    "name": "react-native-track-player",
+    "slug": "react-native-track-player",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,7 +17,12 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "audio"
+        ]
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
