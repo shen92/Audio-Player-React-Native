@@ -14,7 +14,9 @@ Demo project using React Native and Expo to implement a mobile audio player.
 
 ## Preview
 * Start Screen
-<img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2238.PNG" width="200" style="border: 1px soild black"/>
+<div style="border: 1px soild black">
+  <img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2238.PNG" width="200" />
+</div>
 
 * Select track from playlist to load music
 <img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2239.PNG" width="200"/>
