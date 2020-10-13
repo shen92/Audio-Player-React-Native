@@ -19,5 +19,5 @@ export const defaultPlaylist = [
     src: require('../audio/Xi-Huan.mp3'),
     lrc: require('../lrc/Xi-Huan.json'),
     art: require('../art/Xi-Huan.jpg')
-  }
+  },
 ];

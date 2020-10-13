@@ -1,5 +1,5 @@
-import React, {Component} from 'react';
-import {View, Text, Modal} from 'react-native';
+import React from 'react';
+import {View, Text, Modal, SafeAreaView, ScrollView} from 'react-native';
 import {Button, ListItem} from "react-native-elements";
 
 import {playlist} from "../../styles/playlist";
@@ -41,7 +41,11 @@ export default function Playlist(props) {
       <Modal style={playlist.playlist} visible={props.showPlaylist}>
         <View style={playlist.list}>
           <Text style={playlist.listName}>Playlist</Text>
-          {renderListItems()}
+          <SafeAreaView style={playlist.scrollViewContainer}>
+            <ScrollView showsVerticalScrollIndicator={false}>
+              {renderListItems()}
+            </ScrollView>
+          </SafeAreaView>
           <Button type="clear" style={playlist.backButton} onPress={() => onBackButtonPress()} title="Close"/>
         </View>
       </Modal>

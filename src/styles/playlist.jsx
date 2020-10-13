@@ -9,6 +9,10 @@ export const playlist = StyleSheet.create({
     alignItems: 'center',
   },
 
+  scrollViewContainer: {
+    height: '75%',
+  },
+
   list: {
     top: '5%',
   },
