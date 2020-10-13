@@ -19,20 +19,29 @@ Demo project using React Native and Expo to implement a mobile audio player.
 </kbd>
 
 * Select track from playlist to load music
-<img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2239.PNG" width="200"/>
+<kbd>
+  <img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2239.PNG" width="200"/>
+</kbd>
 
 * Load music and start playing (looping on track disabled by default)
-<img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2240.PNG" width="200"/>
-
+<kbd>
+  <img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2240.PNG" width="200"/>
+</kbd>
+  
 * Load music and start playing (looping on track enabled)
-<img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2241.PNG" width="200"/>
+<kbd>
+  <img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2241.PNG" width="200"/>
+</kbd>
 
 * Jump to the position in the music when clicking on the lyrics or drag the progress bar
-<img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2242.PNG" width="200"/>
+<kbd>
+  <img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2242.PNG" width="200"/>
+</kbd>
 
 * Play list indicate the current playing track
-<img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2243.PNG" width="200"/>
-
+<kbd>
+  <img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2243.PNG" width="200"/>
+</kbd>
 
 ## Upcoming Features
 
