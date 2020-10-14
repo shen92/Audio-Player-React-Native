@@ -1,16 +1,16 @@
 # React Native Audio Player
 
-Demo project using React Native and Expo to implement a mobile audio player. 
+Mobile audio player developed with React Native. 
 
 
 ## Features
 
-1) Load, play and pause music
-2) Load Lyrics
-3) Automatic Lyrics-to-Audio Alignment (basically scroll down and highlight the line of lyrics as the music plays)
-4) Jump to the position in the music when clicking on the lyrics, and vice versa
-5) Jump to previous or next track
-6) Enable/disable looping on a single track and whole playlist
+1) Load, play and pause music.
+2) Load Lyrics.
+3) Automatic Lyrics-to-Audio Alignment (basically scroll down and highlight the line of lyrics as the music plays).
+4) Jump to the position in the music when clicking on the lyrics, and vice versa.
+5) Jump to previous or next track.
+6) Enable/disable looping on a single track and whole playlist.
 
 ## Preview
 ### Start Screen
@@ -43,6 +43,22 @@ Demo project using React Native and Expo to implement a mobile audio player.
   <img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2243.PNG" width="200"/>
 </kbd>
 
+## Installation
+:exclamation:You need to download the project to run this application.
+
+Use the package manager [npm](https://www.npmjs.com/) to install dependencies.
+
+```bash
+npm install
+```
+
+Use npm to launch the application.
+
+```bash
+npm start
+```
+
+Scan the QR code on your browser with camera, and launch it via [expo](https://expo.io/).
 
 ## Upcoming Features
 
@@ -58,3 +74,6 @@ Demo project using React Native and Expo to implement a mobile audio player.
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+ 
+ ## License
+[MIT](https://choosealicense.com/licenses/mit/)
