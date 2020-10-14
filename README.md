@@ -13,36 +13,32 @@ Demo project using React Native and Expo to implement a mobile audio player.
 6) Enable/disable looping on a single track and whole playlist
 
 ## Preview
-* Start Screen
+### Start Screen
 <kbd>
   <img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2238.PNG" width="200" />
 </kbd>
 
-
-* Select track from playlist to load music
+### Select track from playlist to load music
 <kbd>
   <img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2239.PNG" width="200"/>
 </kbd>
 
-
-* Load music and start playing (looping on track disabled by default)
+### Load music and start playing (looping on track disabled by default)
 <kbd>
   <img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2240.PNG" width="200"/>
 </kbd>
 
-
-* Load music and start playing (looping on track enabled)
+### Load music and start playing (looping on track enabled)
 <kbd>
   <img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2241.PNG" width="200"/>
 </kbd>
 
-* Jump to the position in the music when clicking on the lyrics or drag the progress bar
+### Jump to the position in the music when clicking on the lyrics or drag the progress bar
 <kbd>
   <img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2242.PNG" width="200"/>
 </kbd>
 
-
-* Play list indicate the current playing track
+### Play list indicate the current playing track
 <kbd>
   <img src="https://github.com/shen92/React-Native-Audio-Player/blob/main/preview/IMG_2243.PNG" width="200"/>
 </kbd>
