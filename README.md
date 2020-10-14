@@ -49,6 +49,7 @@ Mobile audio player developed with React Native.
 Use the package manager [npm](https://www.npmjs.com/) to install dependencies.
 
 ```bash
+npm install expo-cli --global
 npm install
 ```
 
